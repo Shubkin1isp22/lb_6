@@ -1,0 +1,41 @@
+body {
+    font-family: 'Comic Sans MS', cursive, sans-serif;
+    background-color: #ffe6f2; /* Розовый фон */
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 50px;
+}
+
+h1 {
+    color: #ff3399; /* Розовый цвет текста */
+}
+
+p {
+    color: #ff3399; /* Розовый цвет текста */
+    margin-bottom: 20px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+a {
+    text-decoration: none;
+    color: #ff0066; /* Розовый цвет ссылок */
+    transition: color 0.3s ease;
+}
+
+a:hover {
+    color: #cc0052; /* Более темный оттенок розового при наведении */
+}
